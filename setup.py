@@ -1,3 +1,4 @@
+from setuptools import setup
 setup(
     name = "trulens_viz",
     version = "0.01",
