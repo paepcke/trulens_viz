@@ -1,3 +1,0 @@
-domonic
-matplotlib
-numpy
